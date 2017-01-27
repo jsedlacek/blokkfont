@@ -6,4 +6,4 @@ Shim repository for [BLOKK Font](http://blokkfont.com).
 Package Managers
 ----------------
 
-* [Bower](http://bower.io): `components-blokkfont`
+* [npm](https://www.npmjs.com): `jsedlacek/blokkfont`
